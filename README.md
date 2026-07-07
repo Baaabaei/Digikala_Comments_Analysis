@@ -98,7 +98,7 @@ digikala-4-unsupervised-complete.ipynb
 ### Sentiment Distribution
 
 **Screenshot 3: Sentiment Distribution**
-![Sentiment Distribution](3.png)
+![Sentiment Distribution](4.png)
 
 ### Key Findings
 - **Positive Sentiment**: 80.1% (3,313 comments)
